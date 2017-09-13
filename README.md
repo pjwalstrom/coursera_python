@@ -1,1 +1,1 @@
-Excercises for https://www.coursera.org/learn/interactive-python-1
+Exercises for https://www.coursera.org/learn/interactive-python-1
